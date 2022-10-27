@@ -13,4 +13,6 @@
 - калькулятор.py - калькулятор
 - безымянный.png - шрифт в AUTOMOUSE
 
+Пример закона логики: (A \wedge B)\vee C = (A \vee C)\wedge(B\vee C)
+
 ![image](https://user-images.githubusercontent.com/76615554/192688367-b67af343-5d30-4dc7-b69b-a19fc8bac7f4.png)
