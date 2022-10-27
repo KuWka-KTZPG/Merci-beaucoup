@@ -15,6 +15,6 @@
 
 ![image](https://user-images.githubusercontent.com/76615554/192688367-b67af343-5d30-4dc7-b69b-a19fc8bac7f4.png)
 
-![пример логической опеации](https://user-images.githubusercontent.com/76615554/198190702-df8e33cd-588c-40ec-a253-50f33c2475d9.png)
 
 Пример закона логики: (A \wedge B)\vee C = (A \vee C)\wedge(B\vee C)
+![пример логической опеации](https://user-images.githubusercontent.com/76615554/198190702-df8e33cd-588c-40ec-a253-50f33c2475d9.png)
