@@ -25,3 +25,12 @@ $$ (A \wedge B)\vee C = (A \vee C)\wedge(B\vee C) $$
 $$ {E_{1}^2}=\sqrt{\frac{F\alpha^{x-1}}{(x-1)x}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}}} $$
 
 ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/76615554/200734326-615debda-16e4-48ac-b215-eeb9f7a25654.png)
+
+$$ m=\rho V $$
+
+![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/76615554/200734921-09a0a355-c9a4-46d4-a822-bc033c596107.png)
+
+$$ g _{h}= {\frac{Gm}{(R+h)^{2}}} $$
+
+![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/76615554/200735451-bc18a882-9111-41a0-88d1-241ca4c280b8.png)
+
