@@ -23,3 +23,5 @@ $$ (A \wedge B)\vee C = (A \vee C)\wedge(B\vee C) $$
 ![пример логической опеации](https://user-images.githubusercontent.com/76615554/198190702-df8e33cd-588c-40ec-a253-50f33c2475d9.png)
 
 $$ {E_{1}^2}=\sqrt{\frac{F\alpha^{x-1}}{(x-1)x}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}}} $$
+
+![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/76615554/200734326-615debda-16e4-48ac-b215-eeb9f7a25654.png)
